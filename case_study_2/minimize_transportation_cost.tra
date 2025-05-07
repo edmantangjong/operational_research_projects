@@ -1,0 +1,25 @@
+9,3,1,0,1000,minimize_transportation_cost
+"POM for Windows 5,3 Build 177 Taylor edition 12"
+3,2,0,0,0,0,0
+0,1,0,0,1,0,0
+2,False,0,0,0,0,0,0
+4,4
+""
+"Purwokerto"
+"Semarang"
+"Madiun"
+"SUPPLY"
+""
+"Yogyakarta"
+"Magelang"
+"Surakarta"
+"DEMAND"
+4
+dummy, 0, 0, 0, 0, 0,
+Yogyakarta, 0, 4, 5, 7, 4000,
+Magelang, 0, 6, 3, 8, 5000,
+Surakarta, 0, 5, 2, 3, 6000,
+DEMAND, 0, 5000, 4500, 5500, 0,
+-1, -1
+done
+""

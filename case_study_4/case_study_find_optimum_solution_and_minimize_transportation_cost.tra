@@ -1,0 +1,26 @@
+9,3,1,0,1000,case_study_mid_2
+"POM for Windows 5,3 Build 177 Taylor edition 12"
+4,2,0,0,0,0,0
+0,1,0,0,1,0,0
+2,False,0,0,0,0,0,0
+4,5
+" "
+"Gowa"
+"Takalar"
+"Sinjai"
+"Pare-pare"
+"Dummy"
+""
+"Soppeng"
+"Bulukumba"
+"Palopo"
+"Kebutuhan"
+5
+dummy, 0, 0, 0, 0, 0, 0,
+Soppeng, 0, 20, 30, 40, 50, 20,
+Bulukumba, 0, 30, 20, 50, 20, 30,
+Palopo, 0, 40, 10, 20, 30, 40,
+Kebutuhan, 0, 8, 15, 12, 12, 43,
+-1, -1
+done
+""

@@ -1,0 +1,24 @@
+9,3,1,0,1000,case_study_mid_1
+"POM for Windows 5,3 Build 177 Taylor edition 12"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+2,False,0,0,0,0,0,0
+3,5
+""
+"Roti Susu"
+"Roti Cokelat"
+"Roti Keju"
+" "
+"RHS"
+"Maximize"
+"Pengadukan"
+"Pemanggangan"
+"Penyajian"
+5
+Maximize, 0, 322007, 292007, 232007, 0, 0,
+Pengadukan, 0, 50, 40, 30, 1, 2400,
+Pemanggangan, 0, 30, 20, 10, 1, 3600,
+Penyajian, 0, 20, 10, 10, 1, 4800,
+-1, -1
+done
+""

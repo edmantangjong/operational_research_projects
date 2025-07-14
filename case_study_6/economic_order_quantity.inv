@@ -1,0 +1,15 @@
+9,3,1,1,1000,economic_order_quantity
+"POM for Windows 5,3 Build 177 Taylor edition 12"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+2,False,0,0,0,0,0,0
+4,1
+1
+Model, 0, 0,
+Demand rate(D), 0, 120000,
+Setup/ordering cost(S), 0, 250000,
+Holding/carrying cost(H), 0, 500000,
+Unit cost, 0, 20000,
+-1, -1
+done
+""
